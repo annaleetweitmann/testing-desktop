@@ -1,3 +1,2 @@
 #this is a script
-# i am making changes to b2.
-#again
+#I have decided to delete everything
